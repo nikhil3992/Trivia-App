@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Group#22_HW4</string>
+    <string name="welcome_to_trivia_app">Welcome to Trivia App</string>
+    <string name="exit">Exit</string>
+    <string name="start_trivia">Start Trivia</string>
+    <string name="address">http://dev.theappsdr.com/apis/trivia_json/index.php</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="q">Q</string>
+    <string name="finish">Finish</string>
+    <string name="loading_trivia">Loading Trivia</string>
+    <string name="trivia_ready">Trivia Ready</string>
+    <string name="loading_image">Loading Image</string>
+    <string name="correct_answers">Correct answers:</string>
+    <string name="your_performance">Your Performance:</string>
+    <string name="percent">%</string>
+    <string name="time_left">Time Left: </string>
+    <string name="seconds">" seconds"</string>
+    <string name="no_image">No Image to display</string>
+</resources>
